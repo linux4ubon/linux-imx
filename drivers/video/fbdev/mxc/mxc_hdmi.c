@@ -73,7 +73,7 @@
 #define YCBCR422_8BITS		3
 #define XVYCC444            4
 
-static int hdmi_HPD_EN = 1;
+static int hdmi_HPD_EN = 0;
 
 /*
  * We follow a flowchart which is in the "Synopsys DesignWare Courses
